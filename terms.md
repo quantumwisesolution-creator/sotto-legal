@@ -1,5 +1,5 @@
 # Sotto — Terms of Use
-_Last updated: 10/07/2026_
+_Last updated: July 10, 2026_
 
 By using Sotto you agree to these terms and to Apple's standard Licensed
 Application End User License Agreement (EULA).
