@@ -1,5 +1,5 @@
 # Sotto — Privacy Policy
-_Last updated: 10/07/2026_
+_Last updated: July 10, 2026_
 
 Sotto is built to keep your words on your device.
 
